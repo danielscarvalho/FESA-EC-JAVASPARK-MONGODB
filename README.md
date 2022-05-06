@@ -15,3 +15,7 @@ JAR files (LIBS):
 - https://mvnrepository.com/artifact/com.sparkjava/spark-core/2.9.3
 - https://mvnrepository.com/artifact/org.mongodb/mongodb-driver/3.12.11
 - https://mvnrepository.com/artifact/com.google.code.gson/gson/2.9.0
+
+References:
+
+- https://www.baeldung.com/spark-framework-rest-api
